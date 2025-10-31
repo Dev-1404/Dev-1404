@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++ ,Java , Python , Data Analytics and Machine Learning
 - 🌱 I’m currently learning Machine Learning and Data Analysis
 - 💞️ I’m looking to collaborate on projects related to Data Analysis, Machine Learning, Web Development
-- 📫 How to reach me: LinkedIn: Dev Hinduja (https://www.linkedin.com/in/dev-hinduja/) , Eamil: devnh257@gmail.com 
+- 📫 How to reach me: LinkedIn: Dev Hinduja (https://www.linkedin.com/in/dev-hinduja/) , Email: devnh257@gmail.com 
 - 😄 Pronouns: He/Him
 
 
